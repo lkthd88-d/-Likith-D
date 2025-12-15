@@ -1,1 +1,1 @@
-# -Likith-D
+AlexNet Code Modifications Summary
